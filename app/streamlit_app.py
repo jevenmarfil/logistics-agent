@@ -4,13 +4,13 @@ from agents.logistics_agent import logistics_graph
 
 
 st.set_page_config(
-    page_title="AI Logistics Operations Copilot",
+    page_title="AI Logistics Operations",
     page_icon="🚚",
     layout="wide",
 )
 
 
-st.title("🚚 AI Logistics Operations Copilot")
+st.title("🚚 AI Logistics Operations")
 
 st.write(
     "AI-assisted shipment investigation and "
